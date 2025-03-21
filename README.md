@@ -50,8 +50,5 @@ The project operates through a menu system, allowing the user to perform the fol
 - Emir Kahraman
 - Bülent Yıldırım
 
-## 📩 Contact
-If you find any issues or have suggestions for improvement, please contact us via [GitHub](https://github.com/mrdweeby/Proje3).
-
 📜 **License**: Licensed under the MIT License.
 
