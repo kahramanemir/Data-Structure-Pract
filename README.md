@@ -48,7 +48,7 @@ The project operates through a menu system, allowing the user to perform the fol
 
 ## 👥 Contributors
 - Emir Kahraman
-- Bülen Yıldırım
+- Bülent Yıldırım
 
 ## 📩 Contact
 If you find any issues or have suggestions for improvement, please contact us via [GitHub](https://github.com/mrdweeby/Proje3).
